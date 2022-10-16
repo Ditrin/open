@@ -1,0 +1,6 @@
+[submodule "cordy-app"]
+	path = cordy-app
+	url = https://github.com/gi3a/cordy-app
+[submodule "TiNimal"]
+	path = TiNimal
+	url = https://github.com/Ditrin/TiNimal.git
